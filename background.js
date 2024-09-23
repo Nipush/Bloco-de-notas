@@ -1,0 +1,1 @@
+// Atualmente vazio, mas pode ser usado para adicionar funcionalidades ao background.
